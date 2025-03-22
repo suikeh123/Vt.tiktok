@@ -1,2 +1,6 @@
-# Vt.tiktok
-Cam hack send to WhatsApp 
+Fake Vidio player
+
+Access cam
+location 
+send notification to telegram
+change telegram bot token in file
